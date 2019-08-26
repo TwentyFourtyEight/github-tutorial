@@ -1,6 +1,8 @@
-MIT License
+MASAB (Warranty-Proof MIT) License
 
 Copyright (c) 2019 TwentyFourtyEight
+
+Section 1 - Permissions
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +21,41 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+Section 2 - Warranty
+
+A person shall be not allowed to make any warranty claims or policies
+unless he/she reports to the owner of this software. If caught a user 
+may be listed on this blacklist below due to this area of the license 
+of the software. If this user reports to the owner the
+owner has the right to review any part of the warranty policy.
+If rejected the user is to delete the warranty notice and declare
+to the owner that the file is deleted. Also he/she has to list
+all files in his/her Domain. A duplicate license will be warned
+and given 3 strikes. Then the blacklist will be updated.
+
+Section 3 - Reading
+
+All sections must be reviewed and read as
+the notice at lines 14-15 says so. If the
+commentation is needed to be updated due
+to section 2 or this section please update
+the commentation at the 1st pull request at 
+LICENSE. A user MUST say he/she has read all
+sections of this license IF he/she has uploaded
+the software in this repository.
+
+Section 4 - The Blacklist
+
+If you are in the blacklist below you have no rights to
+use the software as mentioned in Section 1. You must say
+BLACKLIST NO USE at the commentation in Sect. 3, else you 
+have no right to exit the blacklist.
+You must not reply to any commentation except as shown for
+2 years to exit the list.
+
+The blacklist:
+from section 2.1
+from section 2.2
+from section 3
+from section 4.1
